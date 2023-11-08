@@ -1,0 +1,3 @@
+/home/lapochka/CLionProjects/task6_4/cmake-build-debug/CMakeFiles/task6_4.dir
+/home/lapochka/CLionProjects/task6_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lapochka/CLionProjects/task6_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
